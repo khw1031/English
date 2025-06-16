@@ -26,7 +26,7 @@
 - 오늘의 문법 주제: [예: Present Perfect vs Simple Past]
 - 학습 자료: [문법책 페이지 또는 온라인 리소스]
 - 연습 문제 5개 완료
-- 문법 노트: `daily-learning/YYYY-MM-DD-grammar.md`
+- 학습 노트: `daily-learning/YYYY-MM-DD-study-note.md` (Grammar Study Space 섹션)
 
 **Daily Vocabulary (15분)**
 - 신규 단어 10개 학습

@@ -10,13 +10,13 @@
 1. **어제 복습 확인**
    ```bash
    # daily-learning 디렉토리에서 어제 날짜 파일 확인
-   ls daily-learning/2024-01-14-*
+   ls daily-learning/2025-01-14-*
    ```
 
 2. **오늘 계획 생성**
    ```bash
    # daily-plan-generator.md 템플릿 참고하여 오늘 파일 생성
-   cp daily-learning/templates/daily-log-template.md daily-learning/2024-01-15-daily-log.md
+   cp daily-learning/templates/daily-log-template.md daily-learning/2025-01-15-daily-log.md
    ```
 
 3. **어휘 복습 스케줄 확인**
@@ -45,7 +45,7 @@
 
 2. **Grammar Systematization (20분)**
    ```markdown
-   # 파일: daily-learning/2024-01-15-grammar.md
+   # 파일: daily-learning/2025-01-15-study-note.md (Grammar Study Space 섹션)
    
    **Topic**: Present Perfect vs Simple Past
    **Material**: Grammar in Use Unit 15
@@ -59,7 +59,7 @@
 
 3. **Daily Vocabulary (15분)**
    ```markdown
-   # 파일: vocabularies/2024-01-15-new-words.md
+   # 파일: vocabularies/2025-01-15-new-words.md
    
    ## Today's New Words (10개)
    
@@ -107,7 +107,7 @@
 **URL**: https://react.dev/reference/react/useEffect
 **New Terms**: 5개
 
-# 파일: daily-learning/2024-01-15-tech-reading.md 생성
+# 파일: daily-learning/2025-01-15-tech-reading.md 생성
 ```
 
 #### 🌙 Evening Session (60분)
@@ -117,13 +117,13 @@
 **URL**: [링크]
 **Comprehension**: 중급 (70% 이해)
 
-# 파일: daily-learning/2024-01-15-listening.md 생성
+# 파일: daily-learning/2025-01-15-listening.md 생성
 
 ### ✅ Business English (20분)
 **Focus**: Email Writing - Status Update
 **Practice Type**: 템플릿 활용 실제 이메일 작성
 
-# 파일: daily-learning/2024-01-15-business.md 생성
+# 파일: daily-learning/2025-01-15-business.md 생성
 ```
 
 ---
@@ -163,17 +163,17 @@
 ```markdown
 # vocabularies/spaced-repetition/daily-review.md
 
-## 오늘의 복습 스케줄 (2024-01-15)
+## 오늘의 복습 스케줄 (2025-01-15)
 
-### 1-Day Review (어제 학습: 2024-01-14)
+### 1-Day Review (어제 학습: 2025-01-14)
 - algorithm, deployment, stakeholder, clarify, refactoring
 - 복습 방법: Recognition + Context Test
 
-### 3-Day Review (3일 전 학습: 2024-01-12)  
+### 3-Day Review (3일 전 학습: 2025-01-12)  
 - API, debugging, milestone, perspective, elaborate
 - 복습 방법: Recall + Production Test
 
-### 7-Day Review (1주 전 학습: 2024-01-08)
+### 7-Day Review (1주 전 학습: 2025-01-08)
 - microservices, optimization, deliverable, feedback
 - 복습 방법: Full Mastery Assessment
 ```
@@ -197,7 +197,7 @@
 
 #### Morning Session Files
 - [ ] `YYYY-MM-DD-daily-log.md` (메인 로그)
-- [ ] `YYYY-MM-DD-grammar.md` (문법 노트)  
+- [ ] `YYYY-MM-DD-study-note.md` (개인 학습 공간)  
 - [ ] `YYYY-MM-DD-new-words.md` (신규 어휘)
 - [ ] Claude 음성 세션으로 발음 연습
 - [ ] Claude와 스피킹 대화 진행
@@ -217,15 +217,15 @@
 #### 1. 파일 정리
 ```bash
 # 이번 주 파일들을 월별 폴더로 이동
-mkdir -p daily-learning/2024-01/week-3
-mv daily-learning/2024-01-15-* daily-learning/2024-01/week-3/
+mkdir -p daily-learning/2025-01/week-3
+mv daily-learning/2025-01-15-* daily-learning/2025-01/week-3/
 ```
 
 #### 2. 주간 복습 파일 생성
 ```markdown
-# daily-learning/2024-01/week-3/weekly-summary.md
+# daily-learning/2025-01/week-3/weekly-summary.md
 
-## Week 3 Summary (2024-01-15 ~ 2024-01-21)
+## Week 3 Summary (2025-01-15 ~ 2025-01-21)
 
 ### Learning Statistics
 - Total Study Hours: 21시간 (목표: 20시간) ✅
@@ -255,14 +255,14 @@ mv daily-learning/2024-01-15-* daily-learning/2024-01/week-3/
 #### 1. 전체 파일 아카이브
 ```bash
 # 해당 월의 모든 파일을 아카이브
-tar -czf archives/2024-01-learning.tar.gz daily-learning/2024-01/
+tar -czf archives/2025-01-learning.tar.gz daily-learning/2025-01/
 ```
 
 #### 2. 월간 평가 리포트
 ```markdown
-# progress-tracking/2024-01-monthly-report.md
+# progress-tracking/2025-01-monthly-report.md
 
-## January 2024 Learning Report
+## January 2025 Learning Report
 
 ### Overall Progress
 - **Study Days**: 30/31 (97%) ✅
@@ -414,7 +414,7 @@ Page 151-200: Listening Notes & Summaries
 ```markdown
 # 일일 목표 시각화
 ┌─────────────────────────────────────┐
-│ 오늘의 목표 (2024-01-15)            │
+│ 오늘의 목표 (2025-01-15)            │
 ├─────────────────────────────────────┤
 │ ☐ 신규 단어 10개                    │
 │ ☐ 문법: Present Perfect            │
@@ -434,7 +434,7 @@ Page 151-200: Listening Notes & Summaries
 ```markdown
 # daily-learning/metrics/daily-kpi.md
 
-Date: 2024-01-15
+Date: 2025-01-15
 - Study Time: 180분/180분 (100%)
 - New Words: 10개/10개 (100%)  
 - Retention Rate: 8개/10개 (80%)

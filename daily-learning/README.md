@@ -6,7 +6,7 @@
 
 ### 일일 로그 파일
 - `YYYY-MM-DD-daily-log.md` - 메인 일일 학습 기록
-- `YYYY-MM-DD-grammar.md` - 문법 학습 노트
+- `YYYY-MM-DD-study-note.md` - 개인 학습 공간 (문법, 어휘, 개인 인사이트)
 - `YYYY-MM-DD-tech-reading.md` - 기술 문서 읽기 요약
 - `YYYY-MM-DD-listening.md` - 리스닝 연습 노트
 - `YYYY-MM-DD-business.md` - 비즈니스 영어 연습
@@ -24,13 +24,13 @@ daily-learning/
 ├── README.md
 ├── templates/
 │   ├── daily-log-template.md
-│   ├── grammar-notes-template.md
+│   ├── study-note-template.md
 │   ├── tech-reading-template.md
 │   ├── listening-notes-template.md
 │   └── business-practice-template.md
 ├── voice-session-summaries/
-├── 2024-01/
-├── 2024-02/
+├── 2025-01/
+├── 2025-02/
 └── ...
 ```
 

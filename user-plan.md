@@ -21,9 +21,13 @@
 #### Morning Session (60 minutes)
 
 - [ ] **Pronunciation Practice** (15min): L/R distinction, TH sounds, F/V sounds
-- [ ] **Grammar Systematization** (20min): Convert intuitive knowledge to explicit rules
+- [ ] **Grammar Systematization** (20min): Follow 12-week curriculum (see grammar-learning-plan.md)
 - [ ] **Daily Vocabulary** (15min): 10 new words (tech + business + daily)
 - [ ] **Speaking Practice** (10min): Record 2-minute daily summary
+
+#### Daily File Creation
+- [ ] **Study Log**: Create YYYY-MM-DD-daily-log.md (structured progress tracking)
+- [ ] **Study Notes**: Create YYYY-MM-DD-study-note.md (personal learning space)
 
 #### Work Integration (60 minutes)
 
@@ -179,6 +183,29 @@ Learning: continuous learning, upskilling, reskilling, knowledge sharing, best p
 Network: mentorship, sponsorship, professional relationships, industry connections
 Personal Brand: reputation, credibility, thought leadership, expertise, influence
 ```
+
+---
+
+## Daily File Structure
+
+### Two-File System for Each Day
+1. **YYYY-MM-DD-daily-log.md**: Structured tracking, metrics, schedules, objectives
+2. **YYYY-MM-DD-study-note.md**: Personal learning space, deep insights, free-form study
+
+### Daily File Creation Routine
+```
+Morning Setup (5 minutes):
+1. Copy daily-log template → create today's log file
+2. Copy study-note template → create today's study file  
+3. Link both files in daily log header
+4. Review grammar focus from grammar-learning-plan.md
+```
+
+### Study Notes Usage Guidelines
+- **Personal Insights**: Record individual discoveries and patterns
+- **Deep Dive Learning**: Elaborate on difficult concepts with personal examples
+- **Creative Practice**: Free-form writing, personal connections, cultural observations
+- **Mistake Analysis**: Personal error patterns and improvement strategies
 
 ---
 
@@ -445,7 +472,24 @@ Thanks,
 
 ---
 
-*Last Updated: [Current Date]* 
-*Current Phase: [1/2/3]*  
-*Weekly Learning Hours: [Target: Phase 1: 20hrs, Phase 2: 15hrs, Phase 3: 10hrs]*  
-*Next Milestone Review: [Date]*
+## Grammar Learning Integration
+
+### Grammar Curriculum Reference
+- **Main Plan**: grammar-learning-plan.md
+- **Learning Notes**: Daily study note files (YYYY-MM-DD-study-note.md)
+- **Current Focus**: Week 1 - Subject-Verb Agreement
+- **Integration**: 20-minute daily morning session
+
+### Key Grammar Milestones
+- **Week 1-2**: Fix subject-verb agreement, master present tenses
+- **Week 3-6**: Past/future tenses, conditionals, modals
+- **Week 7-10**: Professional structures (passive, relative clauses)  
+- **Week 11-12**: Integration and real-world application
+
+---
+
+*Last Updated: 2025-06-16* 
+*Current Phase: 1 (Foundation Building)*  
+*Grammar Focus: Week 1 - Subject-Verb Agreement*
+*Weekly Learning Hours: Target 20hrs (Phase 1)*  
+*Next Milestone Review: 2025-06-23*
